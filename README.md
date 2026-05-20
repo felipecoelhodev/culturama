@@ -1,4 +1,4 @@
-# Culturama 
+# HubCultural | Culturama 
 
 O projeto Culturama é uma plataforma web interativa criada para conectar pessoas aos melhores eventos do Brasil. Centralizando a programação de festivais, exposições de arte, peças de teatro e conferências de tecnologia. Nesse projeto foi aplicado, na prática, a criação de um projeto com: Next.js 15, estruturação de rotas, layouts, otimizações e a migração de componentes React, resultando em uma aplicação ágil que facilita a descoberta de experiências incríveis.
 
